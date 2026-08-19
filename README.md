@@ -1,7 +1,15 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+  
+![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4960e07-cb89-49b7-bbd3-6cb5e7f482f6/djmlbe-d984e67a-87b2-4a24-bffc-f3c0bf00480b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNDk2MGUwNy1jYjg5LTQ5YjctYmJkMy02Y2I1ZTdmNDgyZjYvZGptbGJlLWQ5ODRlNjdhLTg3YjItNGEyNC1iZmZjLWYzYzBiZjAwNDgwYi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.X3Z1YpxENE1TWlNTuGCEWAWypN56Sl5Zaa7ZIP5yHLE)
 </div>
+
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+  
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dimitrimarchese&style=flat-square&color=000000&label=PROFILE+VIEWS)
 

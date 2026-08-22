@@ -1,8 +1,5 @@
-
 <div align="center">
-
-<img src="https://github.com/Dimitrimarchese/dimitrimarchese/blob/main/scr/batman_gif_by_tagmanink_djmlbe%20(1).gif" width="900" height="547">
-
+  <img src="https://github.com/Dimitrimarchese/dimitrimarchese/blob/main/scr/batman_gif_by_tagmanink_djmlbe%20(1).gif" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
